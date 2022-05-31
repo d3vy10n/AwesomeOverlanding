@@ -1,14 +1,27 @@
-# AwesomeOverlanding
+# Awesome VW Swampers
 
 # Vanlife Zubehör
 
-* [Spacecamper Shop]()
-* [easy goinc Shop]()
-* [Seland Pro - Airlineschinene Zubehör](https://sealand-pro.de)
+* [Spacecamper Shop](https://www.spacecamper-shop.de)
+* [easy goinc Shop](https://easygoinc.com/shop-home/)
+* [Sealand Pro](https://sealand-pro.de)
+* [Vanlife Zubehör]()
+* [Busstoff](https://www.busstoff.de)
 
-# Trocken Trenn Toiletten
+## Trocken Trenn Toiletten
 * [Kildwick](https://www.kildwick.com)
 * [Boxion](https://en.boxio-shop.de)
+
+## Batterien
+
+* [Liontron]
+* [Bulltron]
+* [Carbest]
+* [Victron Energy]
+
+## Airline Schienen
+
+* [Airlineschienen Shop](https://www.airlineschienen-shop.de)
 
 # Vanlife Ausbauer
 
@@ -17,14 +30,15 @@
 * [vaning](https://vaning.de)
 * [spacecamper](https://www.spacecamper.de)
 
-
 # Overlander & Offroad Zubehör
 
-* [Hess Offroad]()
+* [Terranger](https://www.terranger.de)
+* [Hess Offroad](https://automobile-hess.ch)
+* [Rolling Space](https://www.rolling-space.de/)
 * [Frontrunner](https://www.frontrunneroutfitters.com)
 * [Dometic](https://www.dometic.com/de-de/outdoor)
 * [tigerexped](https://www.tigerexped.de)
-* [Terranger](https://www.terranger.de)
 * [Rellium Design](https://relleum.design)
 * [Oryx Solutions](https://www.oryxsolutions.de)
-* [taubenreuther](https://www.offroad24.de)
+* [Taubenreuther](https://www.offroad24.de)
+* [Genesis Import](https://shop.genesis-import.de/de-de/)
