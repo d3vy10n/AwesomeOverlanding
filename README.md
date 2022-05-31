@@ -42,3 +42,11 @@
 * [Oryx Solutions](https://www.oryxsolutions.de)
 * [Taubenreuther](https://www.offroad24.de)
 * [Genesis Import](https://shop.genesis-import.de/de-de/)
+
+# Reise Veranstaler
+
+* [Overland Experience](https://www.overland-experience.de/alle-reisen)
+
+# Messen
+
+* [Abenteuer Allrad](https://www.abenteuer-allrad.de)
