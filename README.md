@@ -21,6 +21,8 @@
 
 ## Airline Schienen
 
+* [Kuriershop](https://www.kuriershop.de)
+* [LaSi24](https://www.lasi24-shop.de)
 * [Airlineschienen Shop](https://www.airlineschienen-shop.de)
 
 # Vanlife Ausbauer
