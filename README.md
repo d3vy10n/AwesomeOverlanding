@@ -43,6 +43,7 @@
 * [Rellium Design](https://relleum.design)
 * [Oryx Solutions](https://www.oryxsolutions.de)
 * [Taubenreuther](https://www.offroad24.de)
+* [Mehari Offroad](https://www.mehari-offroad.de)
 * [Genesis Import](https://shop.genesis-import.de/de-de/)
 
 # Reise Veranstaler
