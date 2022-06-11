@@ -39,7 +39,9 @@
 * [easygoinc](https://easygoinc.com)
 * [mobyvan](https://www.mobyvan.de)
 * [vaning](https://vaning.de)
-* [spacecamper](https://www.spacecamper.de)
+* [Spacecamper](https://www.spacecamper.de)
+* [Terracamper](https://terracamper.de)
+* [Flowcamper](https://flowcamper.de)
 
 # Overlander & Offroad Zubehör
 
@@ -56,6 +58,7 @@
 * [Genesis Import](https://shop.genesis-import.de/de-de/)
 * [GMB Mount](https://shop.gmb-mount.de/)
 * [delta-bags](https://www.delta-bags.de)
+* [Camper Bricks](https://www.camper-bricks.de)
 
 
 # Reise Veranstaler
