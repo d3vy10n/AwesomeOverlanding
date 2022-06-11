@@ -16,10 +16,16 @@
 
 ## Batterien
 
-* [Liontron]
-* [Bulltron]
-* [Carbest]
-* [Victron Energy]
+* [Liontron](https://liontron.com)
+* [Bulltron](https://www.bulltron.de)
+* [Carbest](https://www.creabest.de/collections/lifepo4-batterie-akku)
+* [Victron Energy](https://www.victronenergy.de)
+
+## Elektrik
+
+* [Victron Energy](https://www.victronenergy.de)
+* [Votronic](https://www.votronic.de/index.php/de/)
+* [ective](https://www.ective.de/)
 
 ## Airline Schienen
 
