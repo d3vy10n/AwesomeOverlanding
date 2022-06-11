@@ -3,14 +3,15 @@
 # Vanlife Zubehör
 
 * [Spacecamper Shop](https://www.spacecamper-shop.de)
-* [easy goinc Shop](https://easygoinc.com/shop-home/)
-* [Sealand Pro](https://sealand-pro.de)
-* [Vanlife Zubehör]()
+* [easygoinc Shop](https://easygoinc.com/shop-home/)
+* [Vanlife Zubehör](https://www.van-zubehoer.de)
 * [Busstoff](https://www.busstoff.de)
-
+* [Van Haltestelle](https://van-haltestelle.de/)
+* [Sealand Pro](https://sealand-pro.de)
+ 
 ## Trocken Trenn Toiletten
 * [Kildwick](https://www.kildwick.com)
-* [Boxion](https://en.boxio-shop.de)
+* [Boxio](https://en.boxio-shop.de)
 * [campbee](https://campbee.de)
 
 ## Batterien
@@ -46,6 +47,9 @@
 * [Taubenreuther](https://www.offroad24.de)
 * [Mehari Offroad](https://www.mehari-offroad.de)
 * [Genesis Import](https://shop.genesis-import.de/de-de/)
+* [GMB Mount](https://shop.gmb-mount.de/)
+* [delta-bags](https://www.delta-bags.de)
+
 
 # Reise Veranstaler
 
@@ -53,4 +57,7 @@
 
 # Messen
 
+* [4x4 rhein-waal](https://www.4x4-rhein-waal.de)
 * [Abenteuer Allrad](https://www.abenteuer-allrad.de)
+* [Adventure Northside](https://adventurenorthside.de)
+* [Adventure Southside](https://adventuresouthside.de)
