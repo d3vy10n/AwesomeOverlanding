@@ -42,7 +42,9 @@
 * [Spacecamper](https://www.spacecamper.de)
 * [Terracamper](https://terracamper.de)
 * [Flowcamper](https://flowcamper.de)
-
+* [KEC Motors](https://www.kecmotors.com/)
+* [Multicamper](https://www.multicamper.com/)
+* 
 # Overlander & Offroad Zubehör
 
 * [Terranger](https://www.terranger.de)
@@ -54,6 +56,7 @@
 * [Rellium Design](https://relleum.design)
 * [Oryx Solutions](https://www.oryxsolutions.de)
 * [Taubenreuther](https://www.offroad24.de)
+* [Nakatanenga](https://www.nakatanenga.de/)
 * [Mehari Offroad](https://www.mehari-offroad.de)
 * [Genesis Import](https://shop.genesis-import.de/de-de/)
 * [GMB Mount](https://shop.gmb-mount.de/)
